@@ -7,7 +7,6 @@
 
 # Pegasus 12" tmc 2208
 
-- TODO Enable sd card
 - https://www.instructables.com/id/Upgrading-RAMPS-14-With-TMC2130-Stepper-Drivers/
 
 
