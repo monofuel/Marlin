@@ -7,7 +7,7 @@
 
 # Pegasus 12" tmc 2208
 
-- https://www.instructables.com/id/Upgrading-RAMPS-14-With-TMC2130-Stepper-Drivers/
+- https://www.instructables.com/id/UART-This-Serial-Control-of-Stepper-Motors-With-th/
 
 
 # Marlin 3D Printer Firmware
