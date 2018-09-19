@@ -1,3 +1,16 @@
+# Marlin customized for my 12" pegasus
+
+- makefile uses arduino-cli to setup dependencies and flash the printer, and can be ran from octoprint
+  - `make setup` once to setup deps
+  - `make build` to build firmware
+  - `make upload` to flash firmware to the printer (assumes `/dev/ttyACM0`)
+
+# Pegasus 12" tmc 2208
+
+- TODO Enable sd card
+- https://www.instructables.com/id/Upgrading-RAMPS-14-With-TMC2130-Stepper-Drivers/
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
